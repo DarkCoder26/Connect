@@ -1,0 +1,6 @@
+{
+  "name": "ConnectX",
+  "description": "ConnectX is a modern, polished social networking mobile application featuring dynamic feeds, stories, interactive posts, chats, friend requests, trending groups, and events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
